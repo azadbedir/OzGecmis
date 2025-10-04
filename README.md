@@ -103,7 +103,7 @@ Ancak tüm kodun son hali manuel olarak test edilip düzenlenmiştir.
 
 👤 Azad Bedir
 🎓 Yazılım Mühendisliği Öğrencisi
-📧 azad.bedir@example.com
+📧 azadbedir19362@example.com
 
 📍 Van, Türkiye
 
